@@ -12,4 +12,7 @@ All tasks assigned for interview of DJS ACM
 
 2) A reflection on Keshav’s “How to Read a Paper”, focusing on the three-pass reading method and its application to my projects and research
 
+3) Final Task was probably the most enjoyable of them all.
+   I analysed the recommended Netflix Movies and TV Shows dataset from kaggle (csv in repo). I analysed many fascinating patterns in the data
+
 Disclosure : I have used free LLM's for completion of above tasks but the ideas, thoughts and approach is my own :)
